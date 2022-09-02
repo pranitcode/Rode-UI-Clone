@@ -13,7 +13,7 @@
 
 ![name](https://img.shields.io/badge/Pranit--Ingole-BE--Information--Technology--2022-lightgrey)
 
-<!-- Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. -->
+I built this project in 30 hours, For making this project, I used HTML and Tailwind CSS. I applied some important CSS properties like CSS positioning, CSS hover effect, z-index, CSS flexbox, and other properties. I learn more about positioning, and media queries for making the site responsive for mobile, tab, and desktop view, this project is completely responsive now.
 
 ## Technology Stack Used
 
@@ -28,7 +28,7 @@
 - Framework - **Tailwind**
 
 
-#### Shopify clone  [Preview Link](https://rodeuiclone.netlify.app/)
+#### Rode UI Clone  [Preview Link](https://rodeuiclone.netlify.app/)
 
 ---
 
@@ -42,9 +42,10 @@
   
    [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@pranitcode&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/pranitcodes/)
 
-   [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@pranitingole&color=9cf&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/pranitingole/) 
+   [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@pranitingole&color=9cf&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/pranitingole/)
+   
 
-***Glad to see you here! Show some love by [starring](https://github.com/pranitcode/Rode-UI-Clone) this repo.***
+***Glad to see you here! Show some love by ❤️ [like](https://www.findcoder.io/project/rode-ui-clone/63125a3e8dac50307e6ed09a) this project on [findcoder](https://www.findcoder.io/u/pranitingole) .***
 
 
 ******
